@@ -116,6 +116,6 @@ function clicked(item) {
             localStorage.setItem('depname', depname);
             localStorage.setItem('descp', descp);
             localStorage.setItem('departimage', departimage);
-            window.location.href = "description.html";
+            window.location.href = "department.html";
         });
 }
