@@ -5,3 +5,4 @@
 
 # Open-Day-Event
 Web Page for Campus Open Day visitors
+![Screenshot 2024-09-13 152236](https://github.com/user-attachments/assets/42e96231-f0a5-4c6f-8fed-f2a3e7966b55)
