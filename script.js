@@ -92,7 +92,6 @@ function pagin() {
 }
 
 document.getElementById('realTimeMapButton').addEventListener('click', function() {
-    // Replace with your real-time map URL
     const realTimeMapUrl = 'https://www.google.com/maps/place/Kumaraguru+College+of+Technology/@11.0777673,76.9870923,17z/';
     window.location.href = realTimeMapUrl;
 });
