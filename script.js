@@ -110,8 +110,6 @@ function clicked(item) {
                 <h2>Description: ${res.description}</h2>
                 <h2>Block: ${res.block}</h2>
                 <h2>Link: <a href="${res.link}" target="_blank">${res.link}</a></h2>`;
-            
-            // Storing details in local storage and redirecting to department page
             localStorage.setItem('depname', depname);
             localStorage.setItem('descp', descp);
             localStorage.setItem('departimage', departimage);
