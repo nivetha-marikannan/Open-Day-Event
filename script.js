@@ -43,13 +43,13 @@ const search = () => {
 
 function pagin() {
     const cardsPerPage = 100;
-    const dataContainer = document.getElementById('alldepartments'); // Container holding department cards
-    const prevButton = document.getElementById('prev'); // Previous button
-    const nextButton = document.getElementById('next'); // Next button
-    const pageNumbers = document.getElementById('page-numbers'); // Page numbers display
+    const dataContainer = document.getElementById('alldepartments'); 
+    const prevButton = document.getElementById('prev'); 
+    const nextButton = document.getElementById('next'); 
+    const pageNumbers = document.getElementById('page-numbers'); 
     
-    const cards = Array.from(dataContainer.getElementsByClassName('depts')); // Department cards
-    const totalPages = Math.ceil(cards.length / cardsPerPage); // Calculate total pages
+    const cards = Array.from(dataContainer.getElementsByClassName('depts')); 
+    const totalPages = Math.ceil(cards.length / cardsPerPage); 
     let currentPage = 1;
 
     
