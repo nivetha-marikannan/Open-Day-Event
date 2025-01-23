@@ -3,18 +3,18 @@ The Open Day Event web application is designed to provide visitors with an inter
 
 # Features:
 
-Department Listings: Displays a list of all departments with their images and names. Each department is clickable, leading to more detailed information.
-Search Functionality: Allows users to search for departments by name, making it easier to find specific departments.
-Pagination: Supports pagination, displaying 100 departments per page and enabling users to navigate through pages for easier access to department listings.
-Interactive Department Details: When a department is clicked, detailed information such as the department's description, block, and link to the department’s website is displayed.
-Real-Time Map Integration: A button directs users to a real-time map location of Kumaraguru College of Technology, making it easy to find the campus location.
+1.Department Listings: Displays a list of all departments with their images and names. Each department is clickable, leading to more detailed information.
+2.Search Functionality: Allows users to search for departments by name, making it easier to find specific departments.
+3.Pagination: Supports pagination, displaying 100 departments per page and enabling users to navigate through pages for easier access to department listings.
+4.Interactive Department Details: When a department is clicked, detailed information such as the department's description, block, and link to the department’s website is displayed.
+5.Real-Time Map Integration: A button directs users to a real-time map location of Kumaraguru College of Technology, making it easy to find the campus location.
 
 # Technologies Used:
 
-HTML, CSS, JavaScript for frontend development.
-Fetch API for retrieving department data.
-Local storage for saving department details for the department details page.
-Google Maps API for real-time location display.
+1.HTML, CSS, JavaScript for frontend development.
+2.Fetch API for retrieving department data.
+3.Local storage for saving department details for the department details page.
+4.Google Maps API for real-time location display.
 
 # DEPLOYMENT LINK 
 https://open-day-event-web.netlify.app/
