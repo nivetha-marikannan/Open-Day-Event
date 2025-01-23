@@ -1,11 +1,22 @@
-# Open-Day-Event
-Web Page for Campus Open Day visitors
+# Open Day Event
+The Open Day Event web application is designed to provide visitors with an interactive and seamless experience during the Open Day at Kumaraguru College of Technology. The application offers a detailed view of various departments, including their names, images, descriptions, and more. It allows users to search for departments, navigate through department listings, and explore each department's detailed information.
 
+# Features:
 
-DEPLOYMENT LINK => https://open-day-event-web.netlify.app/
+Department Listings: Displays a list of all departments with their images and names. Each department is clickable, leading to more detailed information.
+Search Functionality: Allows users to search for departments by name, making it easier to find specific departments.
+Pagination: Supports pagination, displaying 100 departments per page and enabling users to navigate through pages for easier access to department listings.
+Interactive Department Details: When a department is clicked, detailed information such as the department's description, block, and link to the department’s website is displayed.
+Real-Time Map Integration: A button directs users to a real-time map location of Kumaraguru College of Technology, making it easy to find the campus location.
 
+# Technologies Used:
 
-![Screenshot 2024-09-13 152919](https://github.com/user-attachments/assets/85482331-6d5e-46fd-998a-ffcb66bdc303)
-![Screenshot 2024-09-13 152139](https://github.com/user-attachments/assets/c237a6b5-b259-4d4e-b52a-62d6afeb0d7d)
-![Screenshot 2024-09-13 152117](https://github.com/user-attachments/assets/59a1c55d-b449-4b01-acb5-7e6749a6a2b8)
-![Screenshot 2024-09-13 152236](https://github.com/user-attachments/assets/42e96231-f0a5-4c6f-8fed-f2a3e7966b55)
+HTML, CSS, JavaScript for frontend development.
+Fetch API for retrieving department data.
+Local storage for saving department details for the department details page.
+Google Maps API for real-time location display.
+
+# DEPLOYMENT LINK 
+https://open-day-event-web.netlify.app/
+
+This project provides an efficient way for visitors to explore the college departments and their offerings, enhancing the overall Open Day experience.
